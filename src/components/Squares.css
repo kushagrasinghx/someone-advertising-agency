@@ -1,0 +1,10 @@
+.squares-canvas {
+    width: 100%;
+    height: 100vh;
+    border: none;
+    display: block; /* Remove default margin/padding of canvas */
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
